@@ -1,8 +1,6 @@
 import csv
 from datetime import datetime as dt
 
-from itemadapter import ItemAdapter
-
 from pep_parse.settings import BASE_DIR
 
 
