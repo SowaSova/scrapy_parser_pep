@@ -9,7 +9,7 @@ class PepParseSpiderMiddleware:
         return s
 
     def process_spider_input(self, response, spider):
-        return None
+        pass
 
     def process_spider_output(self, response, result, spider):
         for i in result:
